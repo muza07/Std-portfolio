@@ -1,0 +1,116 @@
+<html>
+<head>
+    <title>Muthayammal Engineering College - Student Portfolio</title>
+</head>
+<body>
+    <h1><center>Muthayammal Engineering College</center></h1>
+    <h2><center>Student Portfolio</center></h2>
+    <p><b>Muzamil I</b></p>
+    <p><b>Email:</b>mohammadmuza37@gmail.com</p>
+    <p><center>For more information, please contact the college administration.</center></p>
+    <p><center>Thank you for visiting!</center></p> 
+
+    <p><center>
+        <a href="#about">About</a> |
+        <a href="#education">Education</a> |
+        <a href="#features">Features</a> |
+        <a href="#contact">Contact</a>
+    </center></p>
+
+    <h3 id="about"><center>About</center></h3>
+    <p align="center">
+        Muthayammal Engineering College, located in Rasipuram, Tamil Nadu, is a renowned institution established with the vision of providing quality technical education to aspiring students. 
+        It is approved by the AICTE, New Delhi, and affiliated with Anna University, Chennai.
+    </p>
+    <p align="center">
+        The college offers a wide range of undergraduate and postgraduate programs in engineering, technology, and management disciplines. 
+        With a commitment to academic excellence and holistic development, Muthayammal Engineering College focuses on fostering innovation, leadership, and industry readiness among its students.
+    </p>
+    <p align="center">
+        The institution is equipped with state-of-the-art infrastructure, well-experienced faculty, active research initiatives, and an excellent placement cell that bridges the gap between academia and industry. 
+        The campus also promotes extracurricular activities and technical events that contribute to the all-round development of students.
+    </p>
+
+    <h3 id="education"><center>Education</center></h3>
+    <table border="1" align="center" cellpadding="10">
+        <tr>
+            <th>Degree</th>
+            <th>Institution</th>
+            <th>Location</th>
+            <th>Year</th>
+            <th>CGPA/Percentage</th>
+        </tr>
+        <tr>
+            <td>B.E. in Computer Science</td>
+            <td>Muthayammal Engineering College</td>
+            <td>Namakkal, Tamil Nadu</td>
+            <td>2022 - 2026</td>
+            <td>7.4</td>
+        </tr>
+        <tr>
+            <td>HSC</td>
+            <td>Government Higher Secondary School</td>
+            <td>Dharmapuri, Tamil Nadu</td>
+            <td>2020 - 2022</td>
+            <td>60%</td>
+        </tr>
+        <tr>
+            <td>SSLC</td>
+            <td>Government High School</td>
+            <td>Dharmapuri, Tamil Nadu</td>
+            <td>2019 - 2020</td>
+            <td>63%</td>
+        </tr>
+    </table>
+
+    <h3 id="features"><center>College Features</center></h3>
+    <table border="1" align="center" cellpadding="10">
+        <tr>
+            <th>Feature</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Accredited Institution</td>
+            <td>Approved by AICTE and affiliated to Anna University, offering quality technical education.</td>
+        </tr>
+        <tr>
+            <td>Experienced Faculty</td>
+            <td>Well-qualified professors with industry and research experience guiding student success.</td>
+        </tr>
+        <tr>
+            <td>Modern Infrastructure</td>
+            <td>Smart classrooms, well-equipped laboratories, and high-speed internet across campus.</td>
+        </tr>
+        <tr>
+            <td>Placement Training</td>
+            <td>Dedicated placement cell offering training, mock interviews, and company connections.</td>
+        </tr>
+        <tr>
+            <td>Industry Collaborations</td>
+            <td>MoUs with top IT companies and internship opportunities for real-world experience.</td>
+        </tr>
+        <tr>
+            <td>Technical Events</td>
+            <td>Annual symposiums, hackathons, and coding contests to enhance student skills.</td>
+        </tr>
+        <tr>
+            <td>Research & Innovation</td>
+            <td>Encourages student-led research projects and participation in technical conferences.</td>
+        </tr>
+        <tr>
+            <td>Library & Resources</td>
+            <td>Digital library access with vast academic resources, journals, and e-learning tools.</td>
+        </tr>
+    </table>
+
+    <h3 id="contact"><center>Contact Information</center></h3>
+    <p align="center">
+        <strong>College Name:</strong> Muthayammal Engineering College<br>
+        <strong>Address:</strong> Muthayammal Nagar, Rasipuram - 637408,<br>
+        Namakkal District, Tamil Nadu, India<br>
+        <strong>Phone:</strong> +91-4287-220837, +91-4287-220839<br>
+        <strong>Email:</strong> <a href="mailto:info@mec.edu.in">info@mec.edu.in</a><br>
+        <strong>Website:</strong> <a href="https://www.mec.edu.in" target="_blank">www.mec.edu.in</a>
+    </p>
+</body>
+</html>

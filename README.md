@@ -1,37 +1,44 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
     <title>Muthayammal Engineering College - Student Portfolio</title>
 </head>
 <body>
-    <h1><center>Muthayammal Engineering College</center></h1>
-    <h2><center>Student Portfolio</center></h2>
-    <p><b>Muzamil I</b></p>
-    <p><b>Email:</b>mohammadmuza37@gmail.com</p>
-    <p><center>For more information, please contact the college administration.</center></p>
-    <p><center>Thank you for visiting!</center></p> 
 
-    <p><center>
+    <h1 align="center">Muthayammal Engineering College</h1>
+    <h2 align="center">Student Portfolio</h2>
+
+    <p><b>Muzamil I</b></p>
+    <p><b>Email:</b> mohammadmuza37@gmail.com</p>
+    <p align="center">For more information, please contact the college administration.</p>
+    <p align="center">Thank you for visiting!</p>
+
+    <p align="center">
         <a href="#about">About</a> |
         <a href="#education">Education</a> |
         <a href="#features">Features</a> |
-        <a href="#contact">Contact</a>
-    </center></p>
+        <a href="#contact">Contact</a> |
+        <a href="#gallery">Gallery</a>
+    </p>
 
-    <h3 id="about"><center>About</center></h3>
+    <!-- About Section -->
+    <h3 id="about" align="center">About</h3>
     <p align="center">
-        Muthayammal Engineering College, located in Rasipuram, Tamil Nadu, is a renowned institution established with the vision of providing quality technical education to aspiring students. 
+        Muthayammal Engineering College, located in Rasipuram, Tamil Nadu, is a renowned institution established with the vision of providing quality technical education to aspiring students.
         It is approved by the AICTE, New Delhi, and affiliated with Anna University, Chennai.
     </p>
     <p align="center">
-        The college offers a wide range of undergraduate and postgraduate programs in engineering, technology, and management disciplines. 
+        The college offers a wide range of undergraduate and postgraduate programs in engineering, technology, and management disciplines.
         With a commitment to academic excellence and holistic development, Muthayammal Engineering College focuses on fostering innovation, leadership, and industry readiness among its students.
     </p>
     <p align="center">
-        The institution is equipped with state-of-the-art infrastructure, well-experienced faculty, active research initiatives, and an excellent placement cell that bridges the gap between academia and industry. 
+        The institution is equipped with state-of-the-art infrastructure, well-experienced faculty, active research initiatives, and an excellent placement cell that bridges the gap between academia and industry.
         The campus also promotes extracurricular activities and technical events that contribute to the all-round development of students.
     </p>
 
-    <h3 id="education"><center>Education</center></h3>
+    <!-- Education Section -->
+    <h3 id="education" align="center">Education</h3>
     <table border="1" align="center" cellpadding="10">
         <tr>
             <th>Degree</th>
@@ -63,7 +70,8 @@
         </tr>
     </table>
 
-    <h3 id="features"><center>College Features</center></h3>
+    <!-- Features Section -->
+    <h3 id="features" align="center">College Features</h3>
     <table border="1" align="center" cellpadding="10">
         <tr>
             <th>Feature</th>
@@ -103,7 +111,8 @@
         </tr>
     </table>
 
-    <h3 id="contact"><center>Contact Information</center></h3>
+    <!-- Contact Section -->
+    <h3 id="contact" align="center">Contact Information</h3>
     <p align="center">
         <strong>College Name:</strong> Muthayammal Engineering College<br>
         <strong>Address:</strong> Muthayammal Nagar, Rasipuram - 637408,<br>
@@ -112,5 +121,21 @@
         <strong>Email:</strong> <a href="mailto:info@mec.edu.in">info@mec.edu.in</a><br>
         <strong>Website:</strong> <a href="https://www.mec.edu.in" target="_blank">www.mec.edu.in</a>
     </p>
+
+    <!-- Gallery Section -->
+    <h3 id="gallery" align="center">College Gallery</h3>
+    <table align="center" cellspacing="15">
+        <tr>
+            <td><img src="images/muthayammal-engineering-college-kakkaveri-rasipuram-mechanical-engineering-colleges-z9cmfwdrr2.avif" alt="Image 1" width="250"></td>
+            <td><img src="images/unnamed.jpg" alt="Image 2" width="250"></td>
+            <td><img src="images/DSC_0521.jpg" alt="Image 3" width="250"></td>
+        </tr>
+        <tr>
+            <td><img src="images/images_copy.jpg" alt="Image 4" width="250"></td>
+            <td><img src="images/Language-Lab-scaled.jpg" alt="Image 5" width="250"></td>
+            <td><img src="images/W_3-scaled.jpg" alt="Image 6" width="250"></td>
+        </tr>
+    </table>
+
 </body>
 </html>
